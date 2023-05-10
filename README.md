@@ -10,7 +10,6 @@ Check out the tutorial's video on YouTube:
 ## Run the App
 ### From the Command Line
 ```shell
-docker-compose up -d
 ./mvnw spring-boot:run
 ```
 ## Tags
